@@ -8,4 +8,4 @@ General purpose optimization algorithms.
  - Congjugate gradeint (Fletcher-Reeves);
  - Quasi-Newton method - BFGS;
  - Quasi-Newton method - SR1 with trust region;
- - Newton method with conjugat gradient.
+ - Newton method with conjugate gradient.
