@@ -1,7 +1,7 @@
 # optimization-toolbox
 Common purpose optimization algorithms.
 
-## Algorihtms for unconstrained optimization:
+## Algorihtms for unconstrained optimization
  - Steepest descent (Wolfe condition);
  - Newton direction (possibly with Hessian modification);
  - Trust region;
