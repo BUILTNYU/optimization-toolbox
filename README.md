@@ -9,3 +9,7 @@ General purpose optimization algorithms.
  - Quasi-Newton method - BFGS;
  - Quasi-Newton method - SR1 with trust region;
  - Newton method with conjugate gradient.
+
+## Algorithms for constrained optimization
+
+PS: More algorithms are expected to be added later on.
