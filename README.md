@@ -1,5 +1,5 @@
 # optimization-toolbox
-Common purpose optimization algorithms.
+General purpose optimization algorithms.
 
 ## Algorithms for unconstrained optimization
  - Steepest descent (Wolfe condition);
