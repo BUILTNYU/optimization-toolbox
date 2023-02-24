@@ -12,4 +12,4 @@ General purpose optimization algorithms.
 
 ## Algorithms for constrained optimization
 
-PS: More algorithms are expected to be added later on.
+PS: More algorithms are expected to be added.
